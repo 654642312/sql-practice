@@ -4,6 +4,12 @@
     Input Format
 
     The STATION table is described as follows:
+
+    |---------------|
+    |Field | Type   |
+    |city  | Varchar|
+    |state | Varchar|
+    |---------------|
 */
 
 /*Solutions*/
